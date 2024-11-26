@@ -24,3 +24,8 @@ p.exampleText
   font-size: 200px;
   color: #FFFF00;
 }
+
+p.LineBreak
+{
+  padding: 50px;
+}
