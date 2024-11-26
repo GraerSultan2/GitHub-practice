@@ -43,8 +43,9 @@ p.welcomeBarText
   text-wrap: wrap;
   color: #FFFFFF;
   text-align: center;
-  position: relative;
+  position: absolute;
   right: 30px;
+  top: 50%;
   z-index: 2;
 }
 
