@@ -42,7 +42,9 @@ p.welcomeBarText
   width: 50%;
   text-wrap: wrap;
   color: #FFFFFF;
-  text-align: right;
+  text-align: center;
+  position: relative;
+  right: 30px;
   z-index: 2;
 }
 
