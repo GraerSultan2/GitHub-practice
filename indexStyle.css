@@ -52,10 +52,12 @@ p.LineBreak
   z-index: 2;
 }
 
-.backgroundImage
+.bgImage
 {
-  z-index: 1;
-  position: sticky;
-  top: 0;
-  object-fill: cover;
+   background-image: url("inclusivity (For test website).jpg");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100%;
+   z-index: 1;
 }
