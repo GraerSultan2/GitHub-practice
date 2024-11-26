@@ -70,3 +70,12 @@ p.LineBreak
   height: 100%;
   z-index: 1;
 }
+
+body
+{
+  background-image: url("stuff.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
