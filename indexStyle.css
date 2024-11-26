@@ -28,6 +28,7 @@ p
   height: 100%;
   background-image: url("inclusivity (For test website).jpg");
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   
   position: sticky;
