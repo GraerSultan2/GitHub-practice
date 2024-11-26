@@ -18,3 +18,8 @@ p.welcomeBarText
   font-size: 30px;
   color: #FFFFFF;
 }
+
+p.exampleText
+{
+  font-size: 200px;
+}
