@@ -45,7 +45,7 @@ p.welcomeBarText
   text-align: center;
   position: absolute;
   right: 30px;
-  top: 50%;
+  top: 0;
   z-index: 2;
 }
 
