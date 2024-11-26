@@ -26,7 +26,7 @@ p
   display: block;
   padding: 50px;
   height: 100%;
-  background-image: url("inclusivity (For test website).jpg") center center;
+  background-image: url("inclusivity (For test website).jpg") no-repeat 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
   
