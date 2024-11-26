@@ -7,10 +7,14 @@ p
 {
   display: block;
   padding: 50px;
-  font-size: 30px;
-  color: white;
   background-color: rgba(18, 27, 146, 1);
 
   position: sticky;
   top: 0;
+}
+
+.welcomeBarText
+{
+  font-size: 30px;
+  color: #FFFFFF;
 }
