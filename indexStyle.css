@@ -39,6 +39,8 @@ p
 p.welcomeBarText
 {
   font-size: 30px; /*WORK!!!!!*/
+  width: 50%;
+  text-wrap: wrap;
   color: #FFFFFF;
   text-align: right;
   z-index: 2;
