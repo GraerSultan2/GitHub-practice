@@ -26,7 +26,11 @@ p
   display: block;
   padding: 50px;
   background-color: rgba(18, 27, 146, 1);
-
+  height: 100%;
+  background-image: url("inclusivity (For test website).jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  
   position: sticky;
   top: 0;
   z-index: 3;
