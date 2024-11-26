@@ -26,10 +26,9 @@ p
   display: block;
   padding: 50px;
   height: 100%;
-  background-image: url("inclusivity (For test website).jpg") no-repeat 50% 50%;
+  background-image: url("inclusivity (For test website).jpg") repeat-x 50% 50%;
   background-size: cover;
-  background-width: 100%;
-  background-repeat: no-repeat;
+  background-repeat: x-repeat;
   
   position: sticky;
   top: 0;
