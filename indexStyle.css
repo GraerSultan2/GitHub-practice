@@ -43,3 +43,8 @@ p.LineBreak
 {
   padding: 50px;
 }
+
+.backgroundImage
+{
+  z-index: 1;
+}
