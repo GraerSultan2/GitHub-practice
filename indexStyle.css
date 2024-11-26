@@ -1,1 +1,12 @@
+p
+{
+  font-size: 20px;
+}
 
+.welcomeBar
+{
+  display: block;
+  padding: 50px;
+  font-size: 30px;
+  background-color: rgba(18, 27, 146, 1);
+}
