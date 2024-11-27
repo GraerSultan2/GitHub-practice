@@ -84,9 +84,9 @@ p.websiteContent
 {
   display: block;
   background-color: rgba(0, 43, 144, 1);
-  margin: auto;
-  position: absolute;
-  padding: 30px;
   border: 2px rgba(0, 24, 79, 1);
-  
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+    }
 }
