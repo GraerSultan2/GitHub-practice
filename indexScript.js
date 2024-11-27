@@ -2,7 +2,8 @@ function toggleMenu()
 {
     var menu = document.querySelector(".menu");
     var menuButton = document.querySelector(".menuButton");
-    if (menu.style.width === "50%")
+    var menuWidth = getComputedStyle(menu).width;
+    if (menuWidth === "50%")
     {
         menu.style.width = "50px";
             
