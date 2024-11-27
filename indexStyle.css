@@ -2,16 +2,19 @@ h1
 {
   text-align: center;
   z-index: 2;
+  color: #FFFFFF;
 }
 h2
 {
   text-align: center;
   z-index: 2;
+  color: #FFFFFF;
 }
 h3
 {
   text-align: center;
   z-index: 2;
+  color: #FFFFFF;
 }
 
 p
@@ -79,4 +82,13 @@ body
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 1;
+}
+
+p.websiteContent
+{
+  display: block;
+  padding: 30px;
+  background-color: rgba(0, 43, 144, 1);
+  z-index: 2;
+  margin: auto;
 }
