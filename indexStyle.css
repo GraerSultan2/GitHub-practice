@@ -84,7 +84,7 @@ body
   overflow: visible;
   z-index: 1;
 }
-p.websiteContent 
+.websiteContent 
 {
   display: block; 
   margin: auto; 
