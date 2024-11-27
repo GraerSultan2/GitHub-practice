@@ -84,23 +84,12 @@ body
   overflow: visible;
   z-index: 1;
 }
-p.websiteContent {
-  display: block; /* Ensures it's treated as a block element */
-  background-color: rgba(0, 43, 144, 1);
-  border: 2px solid rgba(0, 24, 79, 1); /* Correct border syntax */
-  width: 80%;
-  margin: 20px auto; /* Centers the element */
-  padding: 20px;
-  height: auto;
-  min-height: 10px;
-  color: #fff; /* White text for contrast */
-  z-index: 10; /* Ensure it’s above other elements */
-  box-sizing: border-box; /* To include padding/border in the element's width and height */
-  position: relative;
-}
-
-p.websiteContent::after
+p.websiteContent 
 {
-  content: "Debug";
-  color: red;
+  display: block; 
+  margin: auto; 
+  padding: 20px;
+  background-color: red; 
+  position: relative; 
+  z-index: 10;
 }
