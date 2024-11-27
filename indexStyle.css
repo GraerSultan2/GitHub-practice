@@ -84,11 +84,9 @@ p.websiteContent
 {
   display: block;
   position: relative;
-  left: 25%;
   padding: 30px;
   background-color: rgba(0, 43, 144, 1);
   margin: auto;
-  overflow: hidden;
   width: 80%;
   z-index: 4;
 }
