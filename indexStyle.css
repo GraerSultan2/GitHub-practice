@@ -125,4 +125,8 @@ body
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 5px;
+
+    background-image: url("menuBars-removebg-preview.png");
+    background-repeat: no-repeat;
+    background-position: center;
   }
