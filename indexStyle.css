@@ -82,6 +82,7 @@ body::before
 body
 {
   overflow: visible;
+  z-index: 1;
 }
 p.websiteContent {
   display: block; /* Ensures it's treated as a block element */
@@ -93,7 +94,8 @@ p.websiteContent {
   height: auto;
   min-height: 10px;
   color: #fff; /* White text for contrast */
-  z-index: 5; /* Ensure it’s above other elements */
+  z-index: 10; /* Ensure it’s above other elements */
   box-sizing: border-box; /* To include padding/border in the element's width and height */
+  position: relative;
 }
 
