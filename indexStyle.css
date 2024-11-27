@@ -99,3 +99,8 @@ p.websiteContent {
   position: relative;
 }
 
+p.websiteContent::after
+{
+  content: "Debug";
+  color: red;
+}
