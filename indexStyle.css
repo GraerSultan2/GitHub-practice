@@ -28,7 +28,7 @@ p
 .welcomeBar
 {
   display: block;
-  padding: 50px;
+  padding: 0;
   height: 100px;
   background-image: url("inclusivity (For test website).jpg");
   background-position: center center;
