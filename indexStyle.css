@@ -100,3 +100,29 @@ body
   z-index: 2;
   border-radius: 5px;
 }
+
+.menu
+{
+  display: block;
+  background-color: gray;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  z-index: 4;
+  position: sticky;
+  top: 0;
+  left: 30px;
+	border-radius: 0 10px 10px 0;
+  transition-duration: 0.4s;
+}
+    
+.menuButton
+{
+  width: 45px;
+  height: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+}
