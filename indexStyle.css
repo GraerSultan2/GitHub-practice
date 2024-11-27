@@ -52,7 +52,6 @@ p.welcomeBarText
   position: absolute;
   top: 50%;
   right: 30px;
-  padding: 30px;
   z-index: 3;
 }
 
