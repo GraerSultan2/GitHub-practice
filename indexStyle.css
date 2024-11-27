@@ -88,4 +88,5 @@ p.websiteContent
   margin: auto;
   overflow: hidden;
   width: 80%;
+  z-index: 4;
 }
