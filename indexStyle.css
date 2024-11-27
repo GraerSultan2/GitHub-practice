@@ -86,4 +86,5 @@ p.websiteContent
   padding: 30px;
   background-color: rgba(0, 43, 144, 1);
   margin: auto;
+  overflow: hidden;
 }
