@@ -83,10 +83,10 @@ body::before
 p.websiteContent
 {
   display: block;
-  position: relative;
-  padding: 30px;
   background-color: rgba(0, 43, 144, 1);
   margin: auto;
-  width: 80%;
-  z-index: 5;
+  position: relative;
+  padding: 30px;
+  border: 2px rgba(0, 24, 79, 1);
+  
 }
