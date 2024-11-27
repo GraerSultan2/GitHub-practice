@@ -79,7 +79,10 @@ body::before
   background-repeat: no-repeat;
   z-index: -1;
 }
-
+body
+{
+  overflow: visible;
+}
 p.websiteContent {
   display: block; /* Ensures it's treated as a block element */
   background-color: rgba(0, 43, 144, 1);
