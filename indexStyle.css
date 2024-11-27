@@ -66,21 +66,22 @@ p.LineBreak
   z-index: 2;
 }
 
-.bgImage
-{
-  position: sticky;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-}
-
 body
 {
   background-image: url("stuff.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  position: fixed;
+  z-index: 1;
+}
+
+.bgImage
+{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100%;
   z-index: 1;
 }
 
