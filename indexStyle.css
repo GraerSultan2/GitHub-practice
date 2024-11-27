@@ -37,7 +37,7 @@ p
   
   position: sticky;
   top: 0;
-  z-index: 3;
+  z-index: 4;
 }
 
 p.welcomeBarText
@@ -50,7 +50,7 @@ p.welcomeBarText
   position: absolute;
   right: 30px;
   top: 25%;
-  z-index: 2;
+  z-index: 3;
 }
 
 p.exampleText
@@ -85,6 +85,6 @@ p.websiteContent
   display: block;
   padding: 30px;
   background-color: rgba(0, 43, 144, 1);
-  z-index: 2;
+  z-index: 3;
   margin: auto;
 }
