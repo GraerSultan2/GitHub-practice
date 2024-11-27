@@ -125,6 +125,7 @@ body
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 5px;
+  z-index: 5;
 }
 
 .menuButton:hover
